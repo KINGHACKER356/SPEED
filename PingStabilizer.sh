@@ -12,33 +12,33 @@ echo $red
 cat baca.txt
 sleep 10
 echo $green
-figlet "SPEED"
+figlet "PING STABILIZER"
 echo $purple"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $white"Author : Yadi Fernando"
-echo $cyan"Kontak : 085706249638"
-echo $red"SUBSCRIBE :" $yellow"Official Yadi Fernando"
+echo $white"Author : ADITIA WIRATAMA PUTRA"
+echo $cyan"Kontak : 082135890584"
+echo $red"SUBSCRIBE :" $yellow"----------"
 echo $purple"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $green"     SELAMAT DATANG BRO"
+echo $green"     SELAMAT DATANG"
 echo
-echo $yellow"Silahkan Pilih Script Kesukaanmu :"
+echo $yellow"Silahkan Pilih Script:"
 echo
-echo $blue"1.) Stabilkan Jaringan v1"
+echo $blue"1.) PING STABILIZER v1"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $yellow"2.) Stabilkan Jaringan v2"
+echo $yellow"2.) PING STABILIZER v2"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $white"3.) Stabilkan Jaringan Saat Browsing"
+echo $white"3.) PING STABILIZER Saat INTERNET"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $red"4.) Stabilkan Jaringan Saat nonton Youtube v1"
+echo $red"4.) PING STABILIZER Saat nonton Youtube v1"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $green"5.) Stabilkan Jaringan Saat nonton Youtube v2"
+echo $green"5.) PING STABILIZER Saat nonton Youtube v2"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $blue"6.) Stabilkan Jaringan Saat Chattingan Facebook v1"
+echo $blue"6.) PING STABILIZER Saat Chattingan Facebook v1"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $yellow"7.) Stabilkan Jaringan Saat Chattingan Facebook v2"
+echo $yellow"7.) PING STABILIZER Saat Chattingan Facebook v2"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $purple"8.) Stabilkan Jaringan Saat Chattingan Instagram"
+echo $purple"8.) PING STABILIZER Saat Chattingan Instagram"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $white"9.) Coming Soon...."
+echo $white"9.) IZIN RECODE YA BANG Y4D1  RECODE BY : ADITIA ...."
 echo $yellow"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $red"0.) KELUAR AJALAH"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
@@ -52,8 +52,8 @@ read -p "Silahkan Pilih No Berapa : " bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-toilet -f big -F gay Yadi
-echo $green"Stabilkan Jaringan v1 by Yadi"
+toilet -f big -F gay 4D1T
+echo $green"PING STABILIZER v1 by 4D1T"
 sleep 1
 echo
 ping -s1000 1.1.1.1
@@ -62,8 +62,8 @@ fi
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
-toilet -f big -F gay Yadi
-echo $yellow"Stabilkan Jaringan v2 by Yadi"
+toilet -f big -F gay 4D1T
+echo $yellow"PING STABILIZER v2 by 4D1T"
 sleep 1
 echo
 ping -s1000 8.8.8.8
@@ -73,8 +73,8 @@ if [ $bro = 3 ] || [ $bro = 3 ]
 then
 clear
 echo $green
-figlet "By Yadi"
-echo $white"Insya Allah Browsing Lancar"
+figlet "By 4D1T"
+echo $white"PING STABILIZER SAAT BROWSING by 4D1T"
 sleep 1
 echo
 ping -s1000 216.239.38.120
@@ -85,7 +85,7 @@ then
 clear
 echo $red
 figlet "Y T v 1"
-echo "Stabilkan jaringan saat nonton Youtube v1 by Yadi"
+echo "PING STABILIZER SAAT YOUTUBE V1 by 4D1T"
 sleep 2
 echo
 ping -s1000 74.125.24.91
@@ -96,7 +96,7 @@ then
 clear
 echo $red
 figlet "Y T v 2"
-echo "Stabilkan jaringan saat nonton Youtube v2 by Yadi"
+echo "PING STABILIZER SAAT YOUTUBE V2 by 4D1T"
 sleep 2
 echo
 ping -s1000 172.217.194.113
@@ -107,7 +107,7 @@ then
 clear
 echo $blue
 figlet "F B v 1"
-echo "Stabilkan jaringan saat Chattingan Facebook v1 by Yadi"
+echo "Stabilkan jaringan saat Chattingan Facebook v1 by 4D1T"
 sleep 2
 echo
 ping -s1000 157.240.7.35
@@ -118,7 +118,7 @@ then
 clear
 echo $blue
 figlet "F B v 2"
-echo "Stabilkan jaringan saat Chattingan Facebook v2 by Yadi"
+echo "Stabilkan jaringan saat Chattingan Facebook v2 by 4D1T"
 sleep 2
 echo
 ping -s1000 157.240.25.35
@@ -129,7 +129,7 @@ then
 clear
 echo $purple
 figlet "I G"
-echo "Stabilkan jaringan saat Chattingan Instagram by Yadi"
+echo "Stabilkan jaringan saat Chattingan Instagram by 4D1T"
 sleep 2
 echo
 ping -s1000 157.240.7.174
@@ -170,19 +170,17 @@ clear
 echo $yellow
 figlet "Dark-Fb"
 sleep 2
-echo $green"Apakah Kamu Yakin Ingin Menginstall Dark-Fb v1.6 By Yadi ?"
+echo $green"Apakah Kamu Yakin Ingin Menginstall PING STABILIZER By 4D1T ?"
 sleep 3
 echo $yellow"Kalau tidak tekan ctrl + c"
 sleep 2
-echo $white"Tapi Kalau Iya, Tunggu Sampai 15 detik"
-sleep 15
+echo $white"Tapi Kalau Iya, Tunggu Sampai 5 detik"
+sleep 5
 pkg update && pkg upgrade
 pkg install git
-pkg install python2
-pip2 install mechanize
-pip2 install requests
-git clone https://github.com/YadiFernando/DARKFB
-mv DARKFB $HOME
-cd $HOME/DARKFB
-python2 DARKFB.py
+pkg install bash
+git clone https://github.com/4D1T/PING
+mv PING $HOME
+cd $HOME/PING
+sh PING.sh
 fi
